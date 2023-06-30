@@ -19,4 +19,5 @@
 #### Run the test script
 ` ./lcs_test.sh `
 
-#### Sample request: { "setOfStrings": [ {"value": "comcast"}, {"value": "comcastic"}, {"value": "broadcaster"} ] }
+#### Sample request:
+` { "setOfStrings": [ {"value": "comcast"}, {"value": "comcastic"}, {"value": "broadcaster"} ] } `
